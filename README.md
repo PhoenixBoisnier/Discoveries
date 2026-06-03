@@ -1,2 +1,2 @@
 # Discoveries
-A repository of sanitized vulnerability discoveries and remediations. 
+A curated repository of sanitized vulnerability discoveries and remediations, spanning identity‑centric issues as well as broader application, infrastructure, and configuration weaknesses. While my background is rooted in IAM architecture and ITDR, this collection reflects the full range of security findings I encounter — from access‑path flaws to systemic vulnerabilities — along with clear, actionable guidance for strengthening defenses across the stack.
